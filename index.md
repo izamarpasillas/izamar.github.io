@@ -11,7 +11,7 @@ This page is hosted at [IzamarPasillas.github.io](https://https://izamarpasillas
 - a 
 - list
 
-### Less important section
+### Another headline 
 :smiley: **Thank you for this class! **
 
 :nerd_face: (how I feel after this course work)
