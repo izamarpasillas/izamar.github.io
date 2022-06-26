@@ -6,11 +6,12 @@ This page is hosted at [IzamarPasillas.github.io](https://https://izamarpasillas
 
 ## Experimenting with headlines
 
-* This
-* is 
-* a 
-* list
+- This
+- is 
+- a 
+- list
 
 ### Less important section
 :smiley: **Thank you for this class! **
+
 :nerd_face: (how I feel after this course work)
