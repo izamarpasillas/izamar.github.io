@@ -11,7 +11,8 @@ This page is hosted at [IzamarPasillas.github.io](https://https://izamarpasillas
 - a 
 - list
 
+
 ### Another headline 
-😃 **Thank you for this class! **
+😃 **Thank you for this class!**
 
 🤓 (how I feel after this course work)
